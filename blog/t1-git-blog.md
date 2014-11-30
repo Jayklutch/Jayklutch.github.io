@@ -5,7 +5,7 @@ A view through the command line from GUI eyes
 
 30th Nov 2014
 
-Paragraph 1
+Version control
 
 Paragraph 2
 
