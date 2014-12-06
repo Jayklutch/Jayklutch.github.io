@@ -1,0 +1,30 @@
+*{background-color:lightgrey
+}
+
+#top{
+  width:100%;
+}
+
+table{
+  margin:auto;
+  background-color: black;
+  border:1.5px solid black;
+  color:white;
+  width:100%;
+  text-align: center;
+  font-family:Verdana
+}
+td{
+  background-color: #727b8c
+}
+
+h3{
+  font-family:Impact
+}
+
+h2{
+font-family: Arial
+}
+div{
+  display: block;
+}
