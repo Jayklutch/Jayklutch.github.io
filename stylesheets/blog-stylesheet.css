@@ -1,0 +1,54 @@
+#header{
+  height:300px;
+  width:100%;
+}
+
+table{
+  margin:auto;
+  background-color: grey;
+  border:1.5px solid black;
+  color:white;
+  width:100%;
+  text-align: center;
+}
+
+#aboutme{
+ position:absolute;
+ left:50%;
+  width:40%;
+}
+
+#abouttext{
+  position: relative;
+  left:35%;
+  margin:5% 0 0 0;
+  width:60%;
+}
+
+#firstblog{
+position:relative;
+width:20%;
+
+}
+#firsttext{
+  display: inline-block;
+  position: relative;
+  width:35%;
+  left:12%;
+}
+
+.profilepics{
+  display:block;
+ position: relative;
+  width:30%;
+}
+#jayprofile{
+  position: absolute;
+  left: 50%;
+}
+#code1{
+  display: inline-block;
+position: absolute;
+width:50%;
+
+}
