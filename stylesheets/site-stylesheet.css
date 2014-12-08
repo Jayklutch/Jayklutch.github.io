@@ -57,11 +57,11 @@ width:50%;
 }
 #code2{
   display: inline-block;
-position: absolute;
-width:50%;
+position: relative;
+width:30%;
 }
 #code3{
   display: inline-block;
-position: absolute;
-width:50%;
+position: relative;
+width:30%;
 }
